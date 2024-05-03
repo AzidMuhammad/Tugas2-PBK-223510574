@@ -16,4 +16,4 @@ Form Saran adalah aplikasi sederhana yang memungkinkan pengguna untuk mengirimka
 
 ```bash
 npm install
-npm run serve
+npm run dev
